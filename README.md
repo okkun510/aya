@@ -1,4 +1,4 @@
-# Aya ~Asist Your Activity~
+# Aya (Asist Your Activity)s
 
 ## 技術選定
 
