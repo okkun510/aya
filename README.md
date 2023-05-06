@@ -1,6 +1,6 @@
-# Aya (Asist Your Activity)s
+# Aya (Asist Your Activity)
 
-## 技術選定
+## 技術選定(都度更新)
 
 https://terrific-grain-5af.notion.site/ced489fdeab94987b31b6a494d33c033
 
